@@ -3,13 +3,14 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "bluetooth": "*"
     },
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "serpcar.ts"
     ],
     "testFiles": [
         "test.ts"
